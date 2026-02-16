@@ -53,30 +53,20 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 |:---|:---|:---|
 | **[MapYog](#)** | Intelligent Geospatial Platform extending **Kepler.gl** and **deck.gl**. Features viewport-driven rendering for massive datasets and custom data ingestion workflows for GeoJSON/H3. | ![React](https://img.shields.io/badge/-React-black) ![Kepler.gl](https://img.shields.io/badge/-Kepler.gl-black) ![GCP](https://img.shields.io/badge/-GCP-black) |
 | **[Visualz](https://visualz.vercel.app)** | Real-time Algorithm Visualizer & Multiplayer Platform. Features "Forbidden Words" game with Socket.io and high-performance graph/sorting algorithm visualizations (30fps+). | ![React](https://img.shields.io/badge/-React-black) ![Socket.io](https://img.shields.io/badge/-Socket.io-black) ![Node.js](https://img.shields.io/badge/-Node.js-black) |
-| **Recruitment Portal** | MERN stack portal for matching students with job roles based on skills and performance metrics. Redesigned with Tailwind CSS for optimal UX. | ![MongoDB](https://img.shields.io/badge/-MongoDB-black) ![Express](https://img.shields.io/badge/-Express-black) ![React](https://img.shields.io/badge/-React-black) ![Node](https://img.shields.io/badge/-Node.js-black) |
+| **[Professos](https://professos.com)** | MERN stack portal for matching students with CA job roles based on skills and performance metrics. Redesigned with Tailwind CSS for optimal UX. | ![MongoDB](https://img.shields.io/badge/-MongoDB-black) ![Express](https://img.shields.io/badge/-Express-black) ![React](https://img.shields.io/badge/-React-black) ![Node](https://img.shields.io/badge/-Node.js-black) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhurg2002&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="Madhur's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurg2002&theme=gotham" alt="Madhur's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurg2002&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurg2002&theme=gotham" alt="Top Languages" />
 </div>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhurg2002&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 LeetCode Stats
-
-<div align="center">
-    <a href="https://leetcode.com/madhurg2002">
-    <img src="https://leetcard.jacoblin.cool/madhurg2002?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-    </a>
 </div>
 
 ---
