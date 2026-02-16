@@ -52,7 +52,7 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 | **Project** | **Description** | **Tech Stack** |
 |:---|:---|:---|
 | **[MapYog](#)** | Intelligent Geospatial Platform extending **Kepler.gl** and **deck.gl**. Features viewport-driven rendering for massive datasets and custom data ingestion workflows for GeoJSON/H3. | ![React](https://img.shields.io/badge/-React-black) ![Kepler.gl](https://img.shields.io/badge/-Kepler.gl-black) ![GCP](https://img.shields.io/badge/-GCP-black) |
-| **[Visualz](https://visualz.vercel.app)** | Real-time Algorithm Visualizer & Multiplayer Platform. Features "Forbidden Words" game with Socket.io and high-performance graph/sorting algorithm visualizations (30fps+). | ![React](https://img.shields.io/badge/-React-black) ![Socket.io](https://img.shields.io/badge/-Socket.io-black) ![Node.js](https://img.shields.io/badge/-Node.js-black) |
+| **[Visualz](https://visualiz.vercel.app)** | Real-time Algorithm Visualizer & Multiplayer Platform. Features "Forbidden Words" game with Socket.io and high-performance graph/sorting algorithm visualizations (30fps+). | ![React](https://img.shields.io/badge/-React-black) ![Socket.io](https://img.shields.io/badge/-Socket.io-black) ![Node.js](https://img.shields.io/badge/-Node.js-black) |
 | **[Professos](https://professos.com)** | MERN stack portal for matching students with CA job roles based on skills and performance metrics. Redesigned with Tailwind CSS for optimal UX. | ![MongoDB](https://img.shields.io/badge/-MongoDB-black) ![Express](https://img.shields.io/badge/-Express-black) ![React](https://img.shields.io/badge/-React-black) ![Node](https://img.shields.io/badge/-Node.js-black) |
 
 ---
