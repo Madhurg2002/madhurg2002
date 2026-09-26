@@ -1,9 +1,13 @@
 # Hi there, I'm Madhur Gupta! 👋
 
-**Full Stack Developer · Geospatial Engineer · Open Source Contributor**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2094f3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Geospatial+Engineer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-🌐 **[portfolio-madhurg2002.vercel.app](https://portfolio-madhurg2002.vercel.app)** — projects, write-ups and the long version
-📄 **[Résumé (PDF)](https://portfolio-madhurg2002.vercel.app/resume)**
+<div align="center">
+  <p><a href="https://portfolio-madhurg2002.vercel.app">🌐 <b>portfolio-madhurg2002.vercel.app</b></a> — projects, write-ups and the long version</p>
+  <p><a href="https://portfolio-madhurg2002.vercel.app/resume">📄 <b>Résumé (PDF)</b></a></p>
+</div>
 
 <div align="center">
   <a href="https://portfolio-madhurg2002.vercel.app" target="_blank">
@@ -21,6 +25,10 @@
   <a href="https://github.com/madhurg2002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhurg2002&color=2094f3&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 
@@ -113,6 +121,10 @@ Personal builds and open-source work. Research published during my time at Qen L
 ### 🔭 Currently
 
 Building a **Prometheus query gateway** that replaces Grafana, a real-time **algorithm visualizer** with multiplayer chess, and a Python CLI for reclaiming developer cache space. Currently at **Qen Labs**, working on geospatial rendering engines.
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurg2002&theme=gotham" alt="Top Languages by Madhur Gupta" />
+</div>
 
 ---
 
