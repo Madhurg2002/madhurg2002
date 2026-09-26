@@ -1,7 +1,7 @@
 # Hi there, I'm Madhur Gupta! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2094f3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Geospatial+Engineer;Problem+Solver;MapYog+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2094f3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Geospatial+Engineer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 | **Languages** | **Frontend** | **Backend & Cloud** | **Tools & Workflows** |
 |:---:|:---:|:---:|:---:|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) | ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Fastify](https://img.shields.io/badge/Fastify-404D59?style=flat&logo=fastify&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Kepler & Deck](https://img.shields.io/badge/Kepler.gl%20%26%20Deck.gl-E83E8C?style=flat) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
