@@ -123,6 +123,8 @@ Personal builds and open-source work. Research published during my time at Qen L
 Building a **Prometheus query gateway** that replaces Grafana, a real-time **algorithm visualizer** with multiplayer chess, and a Python CLI for reclaiming developer cache space. Currently at **Qen Labs**, working on geospatial rendering engines.
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurg2002&theme=gotham" alt="Madhur's GitHub Stats" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurg2002&theme=gotham" alt="Top Languages by Madhur Gupta" />
 </div>
 
