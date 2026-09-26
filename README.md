@@ -126,6 +126,10 @@ Building a **Prometheus query gateway** that replaces Grafana, a real-time **alg
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurg2002&theme=gotham" alt="Top Languages by Madhur Gupta" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhurg2002&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
 
 <div align="center">
