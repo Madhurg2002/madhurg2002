@@ -63,6 +63,7 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 - **Scalable State Architecture:** Refactored global state management by centralizing the **Redux** store and decoupling monolithic components into reusable **TypeScript** hooks, reducing technical debt by **30%**.
 - **Cloud-Native Security:** Developed secure data pipelines to fetch assets from **Google Cloud Storage**, deploying microservices on **GCP Cloud Run** with OAuth 2.0 that improved deployment frequency by **2x**.
 - **Optimized DevOps Lifecycle:** Streamlined environment scaling by containerizing backend services with **Docker**, resulting in **50% faster build times** across the GCP ecosystem.
+- **Peer-Reviewed Research:** Co-authored *"MapYog — Intelligent Spatiotemporal Data Explorer"* with the YogLabs AI Research Foundation, published at the 2nd ACM SIGSPATIAL Workshop on Advances in Urban-AI, 2024.
 
 #### **Full Stack Intern** | **Professos** _(Jun 2023 – Aug 2023 | Remote)_
 - Developed a **MERN stack** recruitment portal to match students with job roles based on skills and performance metrics.
@@ -90,9 +91,10 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 
 ### 🚀 Projects
 
+Personal builds and open-source work. Research published during my time at Qen Labs is credited under Publications below.
+
 | **Project** | **What it does** | **Stack** |
 |:---|:---|:---|
-| **[MapYog — ACM SIGSPATIAL '24](https://doi.org/10.1145/3681780.3697250)** | Intelligent spatiotemporal data explorer. Viewport-driven rendering for **1M+ points** with **40%** lower client memory, plus custom GeoJSON/H3 ingestion pipelines. *Peer-reviewed workshop paper — [DOI](https://doi.org/10.1145/3681780.3697250).* | ![React](https://img.shields.io/badge/-React-black) ![Kepler.gl](https://img.shields.io/badge/-Kepler.gl-black) ![Deck.gl](https://img.shields.io/badge/-Deck.gl-black) ![GCP](https://img.shields.io/badge/-GCP-black) |
 | **[Prometheus Query Gateway](https://github.com/madhurg2002/grafana)** | Stateless Fastify proxy that routes, caches, and streams PromQL queries and host telemetry — a Grafana replacement. Sub-ms LRU cache, SSE fan-out, 3-state circuit breaker, AES-256-GCM token encryption. | ![Fastify](https://img.shields.io/badge/-Fastify-black) ![TypeScript](https://img.shields.io/badge/-TypeScript-black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black) ![React](https://img.shields.io/badge/-React-black) |
 | **[Visualizer & Games Platform](https://github.com/madhurg2002/Visualizer)** ([live](https://visualiz.vercel.app)) | Pathfinding, sorting, MST, convex hull and N-Queens visualizers plus chess and party games with real-time multiplayer rooms. | ![React](https://img.shields.io/badge/-React-black) ![Socket.io](https://img.shields.io/badge/-Socket.io-black) ![Node.js](https://img.shields.io/badge/-Node.js-black) |
 | **[DevCleaner](https://github.com/madhurg2002/Clean_dev)** | Python CLI that finds and safely clears developer caches and build artifacts across Node, Python, Rust, Java, C/C++ and Ruby. Parallel scanning, filterable TUI, dry-run mode, Windows long-path support. | ![Python](https://img.shields.io/badge/-Python-black) ![CLI](https://img.shields.io/badge/-CLI-black) |
@@ -108,7 +110,7 @@ I'm a **Full Stack Developer** specializing in building high-performance web app
 
 ### 🏆 Publications & Achievements
 
-- 📄 **ACM SIGSPATIAL '24 Workshop Publication** — Co-author (**2nd of 5**) of *["MapYog — Intelligent Spatiotemporal Data Explorer"](https://doi.org/10.1145/3681780.3697250)*, **2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI**, pp. 58–61, 2024. With Ankit Sharma, Mohd Junaid, Anuj Nandwana and Lokendra P. S. Chauhan.
+- 📄 **ACM SIGSPATIAL '24 Workshop Publication** — Co-author (**2nd of 5**) of *["MapYog — Intelligent Spatiotemporal Data Explorer"](https://doi.org/10.1145/3681780.3697250)*, **2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI**, pp. 58–61, 2024. Research carried out at the **YogLabs AI Research Foundation** with **Qen Labs**. With Ankit Sharma, Mohd Junaid, Anuj Nandwana and Lokendra P. S. Chauhan.
 - 🎓 **GATE (CS) 2024** — Qualified, in Data Structures, Algorithms and Operating Systems.
 - 💡 **Elite Problem Solving:** Solved **1000+ problems** across LeetCode and Codeforces, focusing on graph theory, dynamic programming, and system design.
 - 🥇 **Competitive Hackathons:** Developed a geolocation-based facial attendance system during Codeshastra 8.0, integrating real-time API authentication.
