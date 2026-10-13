@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <p><a href="https://portfolio-madhurg2002.vercel.app">🌐 <b>portfolio-madhurg2002.vercel.app</b></a> — projects, write-ups and the long version</p>
-  <p><a href="https://portfolio-madhurg2002.vercel.app/resume">📄 <b>Résumé (PDF)</b></a></p>
+  <p><a href="https://madhur.is-a.dev/">🌐 <b>madhur.is-a.dev</b></a> — projects, write-ups and the long version</p>
+  <p><a href="https://madhur.is-a.dev/resume">📄 <b>Résumé (PDF)</b></a></p>
 </div>
 
 <div align="center">
